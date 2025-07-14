@@ -1,5 +1,5 @@
 🚀 About Me
-🎓 Final-year Information Science & Engineering student (2025 graduate)
+🎓 Information Science & Engineering student (2025 graduate)
 
 💻 Building scalable enterprise apps using Salesforce (Apex, LWC, Flows)
 
